@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vk-apps-currency/static/css/main.981f7211.chunk.css",
+    "main.js": "/vk-apps-currency/static/js/main.5d30fe75.chunk.js",
+    "main.js.map": "/vk-apps-currency/static/js/main.5d30fe75.chunk.js.map",
+    "runtime-main.js": "/vk-apps-currency/static/js/runtime-main.8e797523.js",
+    "runtime-main.js.map": "/vk-apps-currency/static/js/runtime-main.8e797523.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/vk-apps-currency/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.4c3d0ba8.chunk.js": "/vk-apps-currency/static/js/2.4c3d0ba8.chunk.js",
+    "static/js/2.4c3d0ba8.chunk.js.map": "/vk-apps-currency/static/js/2.4c3d0ba8.chunk.js.map",
+    "index.html": "/vk-apps-currency/index.html",
+    "precache-manifest.ea055bdedfef750093be92319227f5b8.js": "/vk-apps-currency/precache-manifest.ea055bdedfef750093be92319227f5b8.js",
+    "service-worker.js": "/vk-apps-currency/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/vk-apps-currency/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vk-apps-currency/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/vk-apps-currency/static/media/persik.4e1ec840.png"
+  }
+}
